@@ -19,7 +19,7 @@ The Base Converter is a Java-based application that allows users to convert numb
 ## Installation
 1. **Clone the Repository**: Clone this repository to your local machine using:
     ```sh
-    git clone https://github.com/yourusername/BaseConverterGUI.git
+    git clone https://github.com/Ely242/Number-Base-Converter.git
     ```
 2. **Compile the Code**: Navigate to the project directory and compile the Java code using:
     ```sh
